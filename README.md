@@ -1,11 +1,13 @@
-# Protocol-Security-Notes
+# Protocol Security Notes
 
-A collection of notes on protocol logic, invariants, edge cases, and security-relevant design patterns.
+Notes on protocol logic, invariants, edge cases, and security observations.
 
-## Topics
-- Access control assumptions
-- State transition safety
-- Cross-component interactions
-- Availability and liveness failures
-- Configuration and upgrade risks
-- Execution vs. verification mismatches
+## Focus
+- message validation logic
+- configuration races
+- availability and liveness failures
+- severity reasoning
+- reproducible security thinking
+
+## Goal
+This repository is a public collection of concise notes on bug classes, failure modes, and audit-relevant reasoning patterns.
