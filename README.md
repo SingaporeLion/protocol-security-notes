@@ -1,4 +1,4 @@
-# protocol-security-notes
+# Protocol-Security-Notes
 
 A collection of notes on protocol logic, invariants, edge cases, and security-relevant design patterns.
 
